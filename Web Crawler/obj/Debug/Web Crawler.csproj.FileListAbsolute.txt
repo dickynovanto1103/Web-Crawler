@@ -1,0 +1,130 @@
+c:\users\gl552vw\documents\visual studio 2017\Projects\Web Crawler\Web Crawler\bin\roslyn\csc.exe
+c:\users\gl552vw\documents\visual studio 2017\Projects\Web Crawler\Web Crawler\bin\roslyn\csc.exe.config
+c:\users\gl552vw\documents\visual studio 2017\Projects\Web Crawler\Web Crawler\bin\roslyn\csc.rsp
+c:\users\gl552vw\documents\visual studio 2017\Projects\Web Crawler\Web Crawler\bin\roslyn\csi.exe
+c:\users\gl552vw\documents\visual studio 2017\Projects\Web Crawler\Web Crawler\bin\roslyn\csi.rsp
+c:\users\gl552vw\documents\visual studio 2017\Projects\Web Crawler\Web Crawler\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\gl552vw\documents\visual studio 2017\Projects\Web Crawler\Web Crawler\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\gl552vw\documents\visual studio 2017\Projects\Web Crawler\Web Crawler\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\users\gl552vw\documents\visual studio 2017\Projects\Web Crawler\Web Crawler\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\gl552vw\documents\visual studio 2017\Projects\Web Crawler\Web Crawler\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\users\gl552vw\documents\visual studio 2017\Projects\Web Crawler\Web Crawler\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\gl552vw\documents\visual studio 2017\Projects\Web Crawler\Web Crawler\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\gl552vw\documents\visual studio 2017\Projects\Web Crawler\Web Crawler\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\users\gl552vw\documents\visual studio 2017\Projects\Web Crawler\Web Crawler\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\users\gl552vw\documents\visual studio 2017\Projects\Web Crawler\Web Crawler\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\gl552vw\documents\visual studio 2017\Projects\Web Crawler\Web Crawler\bin\roslyn\System.AppContext.dll
+c:\users\gl552vw\documents\visual studio 2017\Projects\Web Crawler\Web Crawler\bin\roslyn\System.Collections.Immutable.dll
+c:\users\gl552vw\documents\visual studio 2017\Projects\Web Crawler\Web Crawler\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\users\gl552vw\documents\visual studio 2017\Projects\Web Crawler\Web Crawler\bin\roslyn\System.IO.FileSystem.dll
+c:\users\gl552vw\documents\visual studio 2017\Projects\Web Crawler\Web Crawler\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\users\gl552vw\documents\visual studio 2017\Projects\Web Crawler\Web Crawler\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\gl552vw\documents\visual studio 2017\Projects\Web Crawler\Web Crawler\bin\roslyn\vbc.exe
+c:\users\gl552vw\documents\visual studio 2017\Projects\Web Crawler\Web Crawler\bin\roslyn\vbc.exe.config
+c:\users\gl552vw\documents\visual studio 2017\Projects\Web Crawler\Web Crawler\bin\roslyn\vbc.rsp
+c:\users\gl552vw\documents\visual studio 2017\Projects\Web Crawler\Web Crawler\bin\roslyn\VBCSCompiler.exe
+c:\users\gl552vw\documents\visual studio 2017\Projects\Web Crawler\Web Crawler\bin\roslyn\VBCSCompiler.exe.config
+c:\users\gl552vw\documents\visual studio 2017\Projects\Web Crawler\Web Crawler\bin\ApplicationInsights.config
+c:\users\gl552vw\documents\visual studio 2017\Projects\Web Crawler\Web Crawler\bin\Web Crawler.dll.config
+c:\users\gl552vw\documents\visual studio 2017\Projects\Web Crawler\Web Crawler\bin\Web Crawler.dll
+c:\users\gl552vw\documents\visual studio 2017\Projects\Web Crawler\Web Crawler\bin\Web Crawler.pdb
+c:\users\gl552vw\documents\visual studio 2017\Projects\Web Crawler\Web Crawler\bin\Antlr3.Runtime.dll
+c:\users\gl552vw\documents\visual studio 2017\Projects\Web Crawler\Web Crawler\bin\AspNet.ScriptManager.bootstrap.dll
+c:\users\gl552vw\documents\visual studio 2017\Projects\Web Crawler\Web Crawler\bin\AspNet.ScriptManager.jQuery.dll
+c:\users\gl552vw\documents\visual studio 2017\Projects\Web Crawler\Web Crawler\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\gl552vw\documents\visual studio 2017\Projects\Web Crawler\Web Crawler\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\gl552vw\documents\visual studio 2017\Projects\Web Crawler\Web Crawler\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\gl552vw\documents\visual studio 2017\Projects\Web Crawler\Web Crawler\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\gl552vw\documents\visual studio 2017\Projects\Web Crawler\Web Crawler\bin\Microsoft.AI.Web.dll
+c:\users\gl552vw\documents\visual studio 2017\Projects\Web Crawler\Web Crawler\bin\Microsoft.AI.WindowsServer.dll
+c:\users\gl552vw\documents\visual studio 2017\Projects\Web Crawler\Web Crawler\bin\Microsoft.ApplicationInsights.dll
+c:\users\gl552vw\documents\visual studio 2017\Projects\Web Crawler\Web Crawler\bin\Microsoft.AspNet.FriendlyUrls.dll
+c:\users\gl552vw\documents\visual studio 2017\Projects\Web Crawler\Web Crawler\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+c:\users\gl552vw\documents\visual studio 2017\Projects\Web Crawler\Web Crawler\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\gl552vw\documents\visual studio 2017\Projects\Web Crawler\Web Crawler\bin\Microsoft.ScriptManager.MSAjax.dll
+c:\users\gl552vw\documents\visual studio 2017\Projects\Web Crawler\Web Crawler\bin\Microsoft.ScriptManager.WebForms.dll
+c:\users\gl552vw\documents\visual studio 2017\Projects\Web Crawler\Web Crawler\bin\Microsoft.Web.Infrastructure.dll
+c:\users\gl552vw\documents\visual studio 2017\Projects\Web Crawler\Web Crawler\bin\Newtonsoft.Json.dll
+c:\users\gl552vw\documents\visual studio 2017\Projects\Web Crawler\Web Crawler\bin\System.Web.Optimization.dll
+c:\users\gl552vw\documents\visual studio 2017\Projects\Web Crawler\Web Crawler\bin\WebGrease.dll
+c:\users\gl552vw\documents\visual studio 2017\Projects\Web Crawler\Web Crawler\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\gl552vw\documents\visual studio 2017\Projects\Web Crawler\Web Crawler\bin\System.Web.Optimization.xml
+c:\users\gl552vw\documents\visual studio 2017\Projects\Web Crawler\Web Crawler\bin\Antlr3.Runtime.pdb
+c:\users\gl552vw\documents\visual studio 2017\Projects\Web Crawler\Web Crawler\bin\Microsoft.AspNet.FriendlyUrls.xml
+c:\users\gl552vw\documents\visual studio 2017\Projects\Web Crawler\Web Crawler\bin\Newtonsoft.Json.xml
+c:\users\gl552vw\documents\visual studio 2017\Projects\Web Crawler\Web Crawler\bin\Microsoft.ApplicationInsights.xml
+c:\users\gl552vw\documents\visual studio 2017\Projects\Web Crawler\Web Crawler\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\gl552vw\documents\visual studio 2017\Projects\Web Crawler\Web Crawler\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\gl552vw\documents\visual studio 2017\Projects\Web Crawler\Web Crawler\bin\Microsoft.AI.WindowsServer.xml
+c:\users\gl552vw\documents\visual studio 2017\Projects\Web Crawler\Web Crawler\bin\Microsoft.AI.Web.xml
+c:\users\gl552vw\documents\visual studio 2017\Projects\Web Crawler\Web Crawler\obj\Debug\Web Crawler.csprojResolveAssemblyReference.cache
+c:\users\gl552vw\documents\visual studio 2017\Projects\Web Crawler\Web Crawler\obj\Debug\Web Crawler.dll
+c:\users\gl552vw\documents\visual studio 2017\Projects\Web Crawler\Web Crawler\obj\Debug\Web Crawler.pdb
+c:\users\gl552vw\documents\visual studio 2017\Projects\Web Crawler\Web Crawler\bin\HtmlAgilityPack.dll
+c:\users\gl552vw\documents\visual studio 2017\Projects\Web Crawler\Web Crawler\bin\HtmlAgilityPack.pdb
+c:\users\gl552vw\documents\visual studio 2017\Projects\Web Crawler\Web Crawler\bin\HtmlAgilityPack.xml
+C:\Users\GL552VW\Desktop\tubes stima 3\WebCrawler\Web Crawler\bin\ApplicationInsights.config
+C:\Users\GL552VW\Desktop\tubes stima 3\WebCrawler\Web Crawler\bin\roslyn\csc.exe
+C:\Users\GL552VW\Desktop\tubes stima 3\WebCrawler\Web Crawler\bin\roslyn\csc.exe.config
+C:\Users\GL552VW\Desktop\tubes stima 3\WebCrawler\Web Crawler\bin\roslyn\csc.rsp
+C:\Users\GL552VW\Desktop\tubes stima 3\WebCrawler\Web Crawler\bin\roslyn\csi.exe
+C:\Users\GL552VW\Desktop\tubes stima 3\WebCrawler\Web Crawler\bin\roslyn\csi.rsp
+C:\Users\GL552VW\Desktop\tubes stima 3\WebCrawler\Web Crawler\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\GL552VW\Desktop\tubes stima 3\WebCrawler\Web Crawler\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\GL552VW\Desktop\tubes stima 3\WebCrawler\Web Crawler\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\GL552VW\Desktop\tubes stima 3\WebCrawler\Web Crawler\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\GL552VW\Desktop\tubes stima 3\WebCrawler\Web Crawler\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\GL552VW\Desktop\tubes stima 3\WebCrawler\Web Crawler\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\GL552VW\Desktop\tubes stima 3\WebCrawler\Web Crawler\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\GL552VW\Desktop\tubes stima 3\WebCrawler\Web Crawler\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\GL552VW\Desktop\tubes stima 3\WebCrawler\Web Crawler\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\GL552VW\Desktop\tubes stima 3\WebCrawler\Web Crawler\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\GL552VW\Desktop\tubes stima 3\WebCrawler\Web Crawler\bin\roslyn\System.AppContext.dll
+C:\Users\GL552VW\Desktop\tubes stima 3\WebCrawler\Web Crawler\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\GL552VW\Desktop\tubes stima 3\WebCrawler\Web Crawler\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\GL552VW\Desktop\tubes stima 3\WebCrawler\Web Crawler\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\GL552VW\Desktop\tubes stima 3\WebCrawler\Web Crawler\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\GL552VW\Desktop\tubes stima 3\WebCrawler\Web Crawler\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\GL552VW\Desktop\tubes stima 3\WebCrawler\Web Crawler\bin\roslyn\vbc.exe
+C:\Users\GL552VW\Desktop\tubes stima 3\WebCrawler\Web Crawler\bin\roslyn\vbc.exe.config
+C:\Users\GL552VW\Desktop\tubes stima 3\WebCrawler\Web Crawler\bin\roslyn\vbc.rsp
+C:\Users\GL552VW\Desktop\tubes stima 3\WebCrawler\Web Crawler\bin\roslyn\VBCSCompiler.exe
+C:\Users\GL552VW\Desktop\tubes stima 3\WebCrawler\Web Crawler\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\GL552VW\Desktop\tubes stima 3\WebCrawler\Web Crawler\bin\Web Crawler.dll.config
+C:\Users\GL552VW\Desktop\tubes stima 3\WebCrawler\Web Crawler\bin\Web Crawler.dll
+C:\Users\GL552VW\Desktop\tubes stima 3\WebCrawler\Web Crawler\bin\Web Crawler.pdb
+C:\Users\GL552VW\Desktop\tubes stima 3\WebCrawler\Web Crawler\bin\Antlr3.Runtime.dll
+C:\Users\GL552VW\Desktop\tubes stima 3\WebCrawler\Web Crawler\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\GL552VW\Desktop\tubes stima 3\WebCrawler\Web Crawler\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\GL552VW\Desktop\tubes stima 3\WebCrawler\Web Crawler\bin\HtmlAgilityPack.dll
+C:\Users\GL552VW\Desktop\tubes stima 3\WebCrawler\Web Crawler\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\GL552VW\Desktop\tubes stima 3\WebCrawler\Web Crawler\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\GL552VW\Desktop\tubes stima 3\WebCrawler\Web Crawler\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\GL552VW\Desktop\tubes stima 3\WebCrawler\Web Crawler\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\GL552VW\Desktop\tubes stima 3\WebCrawler\Web Crawler\bin\Microsoft.AI.Web.dll
+C:\Users\GL552VW\Desktop\tubes stima 3\WebCrawler\Web Crawler\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\GL552VW\Desktop\tubes stima 3\WebCrawler\Web Crawler\bin\Microsoft.ApplicationInsights.dll
+C:\Users\GL552VW\Desktop\tubes stima 3\WebCrawler\Web Crawler\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\GL552VW\Desktop\tubes stima 3\WebCrawler\Web Crawler\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\GL552VW\Desktop\tubes stima 3\WebCrawler\Web Crawler\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\GL552VW\Desktop\tubes stima 3\WebCrawler\Web Crawler\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\GL552VW\Desktop\tubes stima 3\WebCrawler\Web Crawler\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\GL552VW\Desktop\tubes stima 3\WebCrawler\Web Crawler\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\GL552VW\Desktop\tubes stima 3\WebCrawler\Web Crawler\bin\Newtonsoft.Json.dll
+C:\Users\GL552VW\Desktop\tubes stima 3\WebCrawler\Web Crawler\bin\System.Web.Optimization.dll
+C:\Users\GL552VW\Desktop\tubes stima 3\WebCrawler\Web Crawler\bin\WebGrease.dll
+C:\Users\GL552VW\Desktop\tubes stima 3\WebCrawler\Web Crawler\bin\HtmlAgilityPack.pdb
+C:\Users\GL552VW\Desktop\tubes stima 3\WebCrawler\Web Crawler\bin\HtmlAgilityPack.xml
+C:\Users\GL552VW\Desktop\tubes stima 3\WebCrawler\Web Crawler\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\GL552VW\Desktop\tubes stima 3\WebCrawler\Web Crawler\bin\System.Web.Optimization.xml
+C:\Users\GL552VW\Desktop\tubes stima 3\WebCrawler\Web Crawler\bin\Antlr3.Runtime.pdb
+C:\Users\GL552VW\Desktop\tubes stima 3\WebCrawler\Web Crawler\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\GL552VW\Desktop\tubes stima 3\WebCrawler\Web Crawler\bin\Newtonsoft.Json.xml
+C:\Users\GL552VW\Desktop\tubes stima 3\WebCrawler\Web Crawler\bin\Microsoft.ApplicationInsights.xml
+C:\Users\GL552VW\Desktop\tubes stima 3\WebCrawler\Web Crawler\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\GL552VW\Desktop\tubes stima 3\WebCrawler\Web Crawler\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\GL552VW\Desktop\tubes stima 3\WebCrawler\Web Crawler\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\GL552VW\Desktop\tubes stima 3\WebCrawler\Web Crawler\bin\Microsoft.AI.Web.xml
+C:\Users\GL552VW\Desktop\tubes stima 3\WebCrawler\Web Crawler\obj\Debug\Web Crawler.csprojResolveAssemblyReference.cache
+C:\Users\GL552VW\Desktop\tubes stima 3\WebCrawler\Web Crawler\obj\Debug\Web Crawler.dll
+C:\Users\GL552VW\Desktop\tubes stima 3\WebCrawler\Web Crawler\obj\Debug\Web Crawler.pdb
